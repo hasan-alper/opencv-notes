@@ -20,6 +20,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.2 [Blending and Pasting Images](08-blending-and-pasting-images.ipynb)
 * 2.3 [Image Thresholding](09-image-thresholding.ipynb)
 * 2.4 [Blurring and Smoothing](10-blurring-and-smoothing.ipynb)
+* 2.5 [Morphological Operators](11-morphological-operators.ipynb) *(Erosion, Opening, Closing and Gradient)*
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
@@ -46,7 +47,7 @@ In order to play around with the notes, you can set up this repository locally f
     ```
 
      
-## Contrubiting
+## Contributing
 
 Any contributions are greatly appreciated. Feel free to create a pull request to improve one or two things. You can also simply open an issue.
 
