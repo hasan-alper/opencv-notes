@@ -22,6 +22,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.4 [Blurring and Smoothing](10-blurring-and-smoothing.ipynb)
 * 2.5 [Morphological Operators](11-morphological-operators.ipynb) *(Erosion, Opening, Closing and Gradient)*
 * 2.6 [Gradients](12-gradients.ipynb) *(Sobel, Laplacian)*
+* 2.7 [Histograms](13-histograms.ipynb)
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
