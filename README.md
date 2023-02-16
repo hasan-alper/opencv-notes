@@ -26,6 +26,7 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 3. Video Basics
 * 3.1 [Connecting to Camera](14-connecting-to-camera.py)
+* 3.2 [Saving Video](15-saving-video.py)
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
