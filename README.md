@@ -24,6 +24,9 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.6 [Gradients](12-gradients.ipynb) *(Sobel, Laplacian)*
 * 2.7 [Histograms](13-histograms.ipynb)
 
+### 3. Video Basics
+* 3.1 [Connecting to Camera](14-connecting-to-camera.py)
+
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
 
