@@ -30,6 +30,9 @@ These notes consist of six topics. You can easily access all the content below.
 * 3.3 [Opening Video Files](16-opening-video-files.py)
 * 3.4 [Drawing on Video](17-drawing-on-video.py)
 
+### 4. Object Detection
+* 4.1 [Template Matching](18-template-matching.ipynb)
+
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
 
