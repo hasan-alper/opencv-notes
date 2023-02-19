@@ -20,7 +20,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.2 [Blending and Pasting Images](08-blending-and-pasting-images.ipynb)
 * 2.3 [Image Thresholding](09-image-thresholding.ipynb)
 * 2.4 [Blurring and Smoothing](10-blurring-and-smoothing.ipynb)
-* 2.5 [Morphological Operators](11-morphological-operators.ipynb) *(Erosion, Opening, Closing and Gradient)*
+* 2.5 [Morphological Operators](11-morphological-operators.ipynb) 
 * 2.6 [Gradients](12-gradients.ipynb) *(Sobel, Laplacian)*
 * 2.7 [Histograms](13-histograms.ipynb)
 
@@ -32,6 +32,7 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 4. Object Detection
 * 4.1 [Template Matching](18-template-matching.ipynb)
+* 4.2 [Corner Detection](19-corner-detection.ipynb) *(Harris, Shi-Tomasi)*
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
