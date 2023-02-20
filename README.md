@@ -35,6 +35,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.2 [Corner Detection](19-corner-detection.ipynb) *(Harris, Shi-Tomasi)*
 * 4.3 [Edge Detection](20-edge-detection.ipynb) *(Canny)*
 * 4.4 [Grid Detection](21-grid-detection.ipynb) *(findChessboardCorners, findCirclesGrid)*
+* 4.5 [Contour Detection](22-contour-detection.ipynb)
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
