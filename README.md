@@ -38,6 +38,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.5 [Contour Detection](22-contour-detection.ipynb)
 * 4.6 [Feature Matching](23-feature-matching.ipynb)
 * 4.7 [Watershed Algorithm](24-watershed-algorithm.ipynb)
+* 4.8 [Custom Seeds with Watershed Algorithm](25-custom-seeds-with-watershed-algorithm.py)
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
