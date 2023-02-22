@@ -41,6 +41,8 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.8 [Custom Seeds with Watershed Algorithm](25-custom-seeds-with-watershed-algorithm.py)
 * 4.9 [Face Detection](26-face-detection.ipynb)
 
+* 5.1 [Lucas-Kanade Optical Flow](27-lucas-kanade-optical-flow.py)
+
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
 
