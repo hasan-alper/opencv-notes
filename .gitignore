@@ -2,3 +2,4 @@ venv
 .ipynb_checkpoints
 DATA/video_capture_test.mp4
 .DS_Store
+myfirstmodel.h5
