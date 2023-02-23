@@ -45,6 +45,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 5.1 [Lucas-Kanade Optical Flow](27-lucas-kanade-optical-flow.py)
 * 5.2 [Dense Optical Flow](28-dense-optical-flow.py)
 * 5.3 [MeanShift Tracking](29-meanshift-tracking.py)
+* 5.4 [CAMShift Tracking](30-camshift-tracking.py)
 
 ## Play Around
 In order to play around with the notes, you can set up this repository locally following these simple steps.
