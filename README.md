@@ -50,9 +50,12 @@ These notes consist of six topics. You can easily access all the content below.
 ### 6. Deep Learning for Computer Vision
 * 6.1 [Keras Basics](31-keras-basics.ipynb)
 
-## Play Around
+## Installation
 In order to play around with the notes, you can set up this repository locally following these simple steps.
 
+Note that in order to avoid potential conflicts with other packages, it is strongly recommended to use a virtual environment or a conda environment.
+
+### Install using pip
 1. Clone the repo
     ```sh
     git clone https://github.com/hasan-alper/opencv-notes.git
@@ -74,6 +77,35 @@ In order to play around with the notes, you can set up this repository locally f
     pip install -r requirements.txt
     ```
 
+### Install using conda
+
+1. Clone the repo
+    ```sh
+    git clone https://github.com/hasan-alper/opencv-notes.git
+    ```
+2. Move inside your copy
+    ```sh
+    cd opencv-notes
+    ```
+3. Create a conda environment
+    ```sh
+    conda create --name [my_conda_env_name]
+    ```
+4. Active the conda environment
+    ```sh
+    conda activate [my_conda_env_name]
+    ```
+5. Install necessary packages
+    ```sh
+    pip install -r requirements.txt
+    ```
+     ⚠️ For Apple silicon Macs, you must follow these steps instead:
+    ```sh
+    conda install -c apple tensorflow-deps
+    ```
+    ```sh
+    pip install -r requirements-apple-silicon.txt
+    ```
      
 ## Contributing
 

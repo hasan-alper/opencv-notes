@@ -1,0 +1,6 @@
+numpy
+matplotlib==3.6.3
+Pillow==9.4.0
+opencv-python==4.7.0.68
+tensorflow-macos==2.9
+scikit-learn==1.2.1
