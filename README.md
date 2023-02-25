@@ -49,6 +49,7 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 6. Deep Learning for Computer Vision
 * 6.1 [Keras Basics](31-keras-basics.ipynb)
+* 6.2 [Keras CNN (MNIST)](32-keras-cnn-mnist.ipynb)
 
 ## Installation
 In order to play around with the notes, you can set up this repository locally following these simple steps.
