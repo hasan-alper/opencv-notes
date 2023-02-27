@@ -9,11 +9,10 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 1. Image Basics
 * 1.1 [Numpy Basics](01-IMAGE-BASICS/1.1-numpy-basics.ipynb)
-* 1.2 [Numpy and Images](01-IMAGE-BASICS/02-numpy-and-images.ipynb) *(PIL)*
-* 1.3 [Image Basics](01-IMAGE-BASICS/03-image-basics.ipynb) *(Resizing, Flipping and Saving Images)*
-* 1.4 [Opening Images with OpenCV](01-IMAGE-BASICS/04-opening-images-with-opencv.py) 
-* 1.5 [Drawing on Images](01-IMAGE-BASICS/05-drawing-on-images.ipynb) *(Draw a Circle, Rectangle, Line, Text and Polygon)*
-* 1.6 [Drawing on Images with a Mouse](01-IMAGE-BASICS/06-drawing-on-images-with-a-mouse.py)
+* 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb)
+* 1.3 [Opening Images with OpenCV](01-IMAGE-BASICS/04-opening-images-with-opencv.py) 
+* 1.4 [Drawing on Images](01-IMAGE-BASICS/05-drawing-on-images.ipynb) *(Draw a Circle, Rectangle, Line, Text and Polygon)*
+* 1.5 [Drawing on Images with a Mouse](01-IMAGE-BASICS/06-drawing-on-images-with-a-mouse.py)
 
 ### 2. Image Processing
 * 2.1 [Colorspaces](02-IMAGE-PROCESSING/07-colorspaces.ipynb) *(RGB, BGR, HSV, HSL)*
