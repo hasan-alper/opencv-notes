@@ -8,49 +8,49 @@ This is the notes I took in my computer vision journey. Contents are from image 
 These notes consist of six topics. You can easily access all the content below.
 
 ### 1. Image Basics
-* 1.1 [Numpy Basics](01-numpy-basics.ipynb) *(Creating Arrays, Indexing)*
-* 1.2 [Numpy and Images](02-numpy-and-images.ipynb) *(PIL)*
-* 1.3 [Image Basics](03-image-basics.ipynb) *(Resizing, Flipping and Saving Images)*
-* 1.4 [Opening Images with OpenCV](04-opening-images-with-opencv.py) 
-* 1.5 [Drawing on Images](05-drawing-on-images.ipynb) *(Draw a Circle, Rectangle, Line, Text and Polygon)*
-* 1.6 [Drawing on Images with a Mouse](06-drawing-on-images-with-a-mouse.py)
+* 1.1 [Numpy Basics](01-IMAGE-BASICS/01-numpy-basics.ipynb) *(Creating Arrays, Indexing)*
+* 1.2 [Numpy and Images](01-IMAGE-BASICS/02-numpy-and-images.ipynb) *(PIL)*
+* 1.3 [Image Basics](01-IMAGE-BASICS/03-image-basics.ipynb) *(Resizing, Flipping and Saving Images)*
+* 1.4 [Opening Images with OpenCV](01-IMAGE-BASICS/04-opening-images-with-opencv.py) 
+* 1.5 [Drawing on Images](01-IMAGE-BASICS/05-drawing-on-images.ipynb) *(Draw a Circle, Rectangle, Line, Text and Polygon)*
+* 1.6 [Drawing on Images with a Mouse](01-IMAGE-BASICS/06-drawing-on-images-with-a-mouse.py)
 
 ### 2. Image Processing
-* 2.1 [Colorspaces](07-colorspaces.ipynb) *(RGB, BGR, HSV, HSL)*
-* 2.2 [Blending and Pasting Images](08-blending-and-pasting-images.ipynb)
-* 2.3 [Image Thresholding](09-image-thresholding.ipynb)
-* 2.4 [Blurring and Smoothing](10-blurring-and-smoothing.ipynb)
-* 2.5 [Morphological Operators](11-morphological-operators.ipynb) 
-* 2.6 [Gradients](12-gradients.ipynb) *(Sobel, Laplacian)*
-* 2.7 [Histograms](13-histograms.ipynb)
+* 2.1 [Colorspaces](02-IMAGE-PROCESSING/07-colorspaces.ipynb) *(RGB, BGR, HSV, HSL)*
+* 2.2 [Blending and Pasting Images](02-IMAGE-PROCESSING/08-blending-and-pasting-images.ipynb)
+* 2.3 [Image Thresholding](02-IMAGE-PROCESSING/09-image-thresholding.ipynb)
+* 2.4 [Blurring and Smoothing](02-IMAGE-PROCESSING/10-blurring-and-smoothing.ipynb)
+* 2.5 [Morphological Operators](02-IMAGE-PROCESSING/11-morphological-operators.ipynb) 
+* 2.6 [Gradients](02-IMAGE-PROCESSING/12-gradients.ipynb) *(Sobel, Laplacian)*
+* 2.7 [Histograms](02-IMAGE-PROCESSING/13-histograms.ipynb)
 
 ### 3. Video Basics
-* 3.1 [Connecting to Camera](14-connecting-to-camera.py)
-* 3.2 [Saving Video](15-saving-video.py)
-* 3.3 [Opening Video Files](16-opening-video-files.py)
-* 3.4 [Drawing on Video](17-drawing-on-video.py)
+* 3.1 [Connecting to Camera](03-VIDEO-BASICS/14-connecting-to-camera.py)
+* 3.2 [Saving Video](03-VIDEO-BASICS/15-saving-video.py)
+* 3.3 [Opening Video Files](03-VIDEO-BASICS/16-opening-video-files.py)
+* 3.4 [Drawing on Video](03-VIDEO-BASICS/17-drawing-on-video.py)
 
 ### 4. Object Detection
-* 4.1 [Template Matching](18-template-matching.ipynb)
-* 4.2 [Corner Detection](19-corner-detection.ipynb) *(Harris, Shi-Tomasi)*
-* 4.3 [Edge Detection](20-edge-detection.ipynb) *(Canny)*
-* 4.4 [Grid Detection](21-grid-detection.ipynb) *(findChessboardCorners, findCirclesGrid)*
-* 4.5 [Contour Detection](22-contour-detection.ipynb)
-* 4.6 [Feature Matching](23-feature-matching.ipynb)
-* 4.7 [Watershed Algorithm](24-watershed-algorithm.ipynb)
-* 4.8 [Custom Seeds with Watershed Algorithm](25-custom-seeds-with-watershed-algorithm.py)
-* 4.9 [Face Detection](26-face-detection.ipynb)
+* 4.1 [Template Matching](04-OBJECT-DETECTION/18-template-matching.ipynb)
+* 4.2 [Corner Detection](04-OBJECT-DETECTION/19-corner-detection.ipynb) *(Harris, Shi-Tomasi)*
+* 4.3 [Edge Detection](04-OBJECT-DETECTION/20-edge-detection.ipynb) *(Canny)*
+* 4.4 [Grid Detection](04-OBJECT-DETECTION/21-grid-detection.ipynb) *(findChessboardCorners, findCirclesGrid)*
+* 4.5 [Contour Detection](04-OBJECT-DETECTION/22-contour-detection.ipynb)
+* 4.6 [Feature Matching](04-OBJECT-DETECTION/23-feature-matching.ipynb)
+* 4.7 [Watershed Algorithm](04-OBJECT-DETECTION/24-watershed-algorithm.ipynb)
+* 4.8 [Custom Seeds with Watershed Algorithm](04-OBJECT-DETECTION/25-custom-seeds-with-watershed-algorithm.py)
+* 4.9 [Face Detection](04-OBJECT-DETECTION/26-face-detection.ipynb)
 
 ### 5. Object Tracking
-* 5.1 [Lucas-Kanade Optical Flow](27-lucas-kanade-optical-flow.py)
-* 5.2 [Dense Optical Flow](28-dense-optical-flow.py)
-* 5.3 [MeanShift Tracking](29-meanshift-tracking.py)
-* 5.4 [CAMShift Tracking](30-camshift-tracking.py)
+* 5.1 [Lucas-Kanade Optical Flow](05-OBJECT-TRACKING/27-lucas-kanade-optical-flow.py)
+* 5.2 [Dense Optical Flow](05-OBJECT-TRACKING/28-dense-optical-flow.py)
+* 5.3 [MeanShift Tracking](05-OBJECT-TRACKING/29-meanshift-tracking.py)
+* 5.4 [CAMShift Tracking](05-OBJECT-TRACKING/30-camshift-tracking.py)
 
-### 6. Deep Learning for Computer Vision
-* 6.1 [Keras Basics](31-keras-basics.ipynb)
-* 6.2 [Keras CNN (MNIST)](32-keras-cnn-mnist.ipynb)
-* 6.3 [Working with Custom Images](33-deep-learning-custom-images.ipynb)
+### 6. Deep Learning
+* 6.1 [Keras Basics](06-DEEP-LEARNING/31-keras-basics.ipynb)
+* 6.2 [Keras CNN (MNIST)](06-DEEP-LEARNING/32-keras-cnn-mnist.ipynb)
+* 6.3 [Working with Custom Images](06-DEEP-LEARNING/33-deep-learning-custom-images.ipynb)
 
 ## Installation
 In order to play around with the notes, you can set up this repository locally following these simple steps.
