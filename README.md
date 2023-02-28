@@ -16,7 +16,7 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 2. Image Processing
 * 2.1 [Colorspaces](02-IMAGE-PROCESSING/2.1-colorspaces.ipynb)
-* 2.2 [Blending and Pasting Images](02-IMAGE-PROCESSING/08-blending-and-pasting-images.ipynb)
+* 2.2 [Blending and Pasting Images](02-IMAGE-PROCESSING/2.2-blending-and-pasting-images.ipynb)
 * 2.3 [Image Thresholding](02-IMAGE-PROCESSING/09-image-thresholding.ipynb)
 * 2.4 [Blurring and Smoothing](02-IMAGE-PROCESSING/10-blurring-and-smoothing.ipynb)
 * 2.5 [Morphological Operators](02-IMAGE-PROCESSING/11-morphological-operators.ipynb) 
