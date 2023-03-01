@@ -19,7 +19,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.2 [Blending and Pasting Images](02-IMAGE-PROCESSING/2.2-blending-and-pasting-images.ipynb)
 * 2.3 [Image Thresholding](02-IMAGE-PROCESSING/2.3-image-thresholding.ipynb)
 * 2.4 [Image Blurring](02-IMAGE-PROCESSING/2.4-image-blurring.ipynb)
-* 2.5 [Morphological Operators](02-IMAGE-PROCESSING/11-morphological-operators.ipynb) 
+* 2.5 [Morphological Operators](02-IMAGE-PROCESSING/2.5-morphological-operators.ipynb) 
 * 2.6 [Gradients](02-IMAGE-PROCESSING/12-gradients.ipynb) *(Sobel, Laplacian)*
 * 2.7 [Histograms](02-IMAGE-PROCESSING/13-histograms.ipynb)
 
