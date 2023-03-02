@@ -24,10 +24,10 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb)
 
 ### 3. Video Basics
-* 3.1 [Connecting to Camera](03-VIDEO-BASICS/14-connecting-to-camera.py)
-* 3.2 [Saving Video](03-VIDEO-BASICS/15-saving-video.py)
-* 3.3 [Opening Video Files](03-VIDEO-BASICS/16-opening-video-files.py)
-* 3.4 [Drawing on Video](03-VIDEO-BASICS/17-drawing-on-video.py)
+* 3.1 [Connecting to Camera](03-VIDEO-BASICS/3.1-connecting-to-camera.py)
+* 3.2 [Saving Video](03-VIDEO-BASICS/3.2-saving-video.py)
+* 3.3 [Opening Video Files](03-VIDEO-BASICS/3.3-opening-video-files.py)
+* 3.4 [Drawing on Video](03-VIDEO-BASICS/3.4-drawing-on-video.py)
 
 ### 4. Object Detection
 * 4.1 [Template Matching](04-OBJECT-DETECTION/18-template-matching.ipynb)

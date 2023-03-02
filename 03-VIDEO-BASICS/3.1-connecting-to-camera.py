@@ -6,7 +6,6 @@ width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 while True:
-    
     ret, frame = cap.read()
     cv2.imshow("frame", frame)
 
