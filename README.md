@@ -21,7 +21,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.4 [Image Blurring](02-IMAGE-PROCESSING/2.4-image-blurring.ipynb)
 * 2.5 [Morphological Operators](02-IMAGE-PROCESSING/2.5-morphological-operators.ipynb) 
 * 2.6 [Gradients](02-IMAGE-PROCESSING/2.6-gradients.ipynb)
-* 2.7 [Histograms](02-IMAGE-PROCESSING/13-histograms.ipynb)
+* 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb)
 
 ### 3. Video Basics
 * 3.1 [Connecting to Camera](03-VIDEO-BASICS/14-connecting-to-camera.py)
