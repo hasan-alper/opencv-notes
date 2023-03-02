@@ -30,7 +30,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 3.4 [Drawing on Video](03-VIDEO-BASICS/3.4-drawing-on-video.py)
 
 ### 4. Object Detection
-* 4.1 [Template Matching](04-OBJECT-DETECTION/18-template-matching.ipynb)
+* 4.1 [Template Matching](04-OBJECT-DETECTION/4.1-template-matching.ipynb)
 * 4.2 [Corner Detection](04-OBJECT-DETECTION/19-corner-detection.ipynb) *(Harris, Shi-Tomasi)*
 * 4.3 [Edge Detection](04-OBJECT-DETECTION/20-edge-detection.ipynb) *(Canny)*
 * 4.4 [Grid Detection](04-OBJECT-DETECTION/21-grid-detection.ipynb) *(findChessboardCorners, findCirclesGrid)*
