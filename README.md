@@ -33,7 +33,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.1 [Template Matching](04-OBJECT-DETECTION/4.1-template-matching.ipynb)
 * 4.2 [Corner Detection](04-OBJECT-DETECTION/4.2-corner-detection.ipynb)
 * 4.3 [Edge Detection](04-OBJECT-DETECTION/4.3-edge-detection.ipynb)
-* 4.4 [Grid Detection](04-OBJECT-DETECTION/21-grid-detection.ipynb) *(findChessboardCorners, findCirclesGrid)*
+* 4.4 [Grid Detection](04-OBJECT-DETECTION/4.4-grid-detection.ipynb)
 * 4.5 [Contour Detection](04-OBJECT-DETECTION/22-contour-detection.ipynb)
 * 4.6 [Feature Matching](04-OBJECT-DETECTION/23-feature-matching.ipynb)
 * 4.7 [Watershed Algorithm](04-OBJECT-DETECTION/24-watershed-algorithm.ipynb)
