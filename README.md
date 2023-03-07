@@ -38,7 +38,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.6 [Feature Matching](04-OBJECT-DETECTION/4.6-feature-matching.ipynb)
 * 4.7 [Watershed Algorithm](04-OBJECT-DETECTION/4.7-watershed-algorithm.ipynb)
 * 4.8 [Custom Seeds with Watershed Algorithm](04-OBJECT-DETECTION/4.8-custom-seeds-with-watershed-algorithm.py)
-* 4.9 [Face Detection](04-OBJECT-DETECTION/26-face-detection.ipynb)
+* 4.9 [Face Detection](04-OBJECT-DETECTION/4.9-face-detection.ipynb)
 
 ### 5. Object Tracking
 * 5.1 [Lucas-Kanade Optical Flow](05-OBJECT-TRACKING/27-lucas-kanade-optical-flow.py)
