@@ -41,10 +41,10 @@ These notes consist of six topics. You can easily access all the content below.
 * 4.9 [Face Detection](04-OBJECT-DETECTION/4.9-face-detection.ipynb)
 
 ### 5. Object Tracking
-* 5.1 [Lucas-Kanade Optical Flow](05-OBJECT-TRACKING/27-lucas-kanade-optical-flow.py)
-* 5.2 [Dense Optical Flow](05-OBJECT-TRACKING/28-dense-optical-flow.py)
-* 5.3 [MeanShift Tracking](05-OBJECT-TRACKING/29-meanshift-tracking.py)
-* 5.4 [CAMShift Tracking](05-OBJECT-TRACKING/30-camshift-tracking.py)
+* 5.1 [Lucas-Kanade Optical Flow](05-OBJECT-TRACKING/5.1-lucas-kanade-optical-flow.py)
+* 5.2 [Dense Optical Flow](05-OBJECT-TRACKING/5.2-dense-optical-flow.py)
+* 5.3 [MeanShift Tracking](05-OBJECT-TRACKING/5.3-meanshift-tracking.py)
+* 5.4 [CAMShift Tracking](05-OBJECT-TRACKING/5.4-camshift-tracking.py)
 
 ### 6. Deep Learning
 * 6.1 [Keras Basics](06-DEEP-LEARNING/31-keras-basics.ipynb)
