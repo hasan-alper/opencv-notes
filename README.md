@@ -49,7 +49,7 @@ These notes consist of six topics. You can easily access all the content below.
 ### 6. Deep Learning
 * 6.1 [Keras Basics](06-DEEP-LEARNING/6.1-keras-basics.ipynb)
 * 6.2 [Keras CNN (MNIST)](06-DEEP-LEARNING/6.2-keras-cnn-mnist.ipynb)
-* 6.3 [Working with Custom Images](06-DEEP-LEARNING/33-deep-learning-custom-images.ipynb)
+* 6.3 [Working with Custom Images](06-DEEP-LEARNING/6.3-deep-learning-custom-images.ipynb)
 
 ## Installation
 In order to play around with the notes, you can set up this repository locally following these simple steps.
