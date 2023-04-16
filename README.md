@@ -9,7 +9,7 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 1. Image Basics
 * 1.1 [Numpy Basics](01-IMAGE-BASICS/1.1-numpy-basics.ipynb)
-* 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb)
+* 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb) *cv2.imread, cv2.cvtColor, cv2.resize, cv2.flip, cv2.rotate, cv2.imwrite*
 * 1.3 [Opening Images with OpenCV](01-IMAGE-BASICS/1.3-opening-images-with-opencv.py) 
 * 1.4 [Drawing on Images](01-IMAGE-BASICS/1.4-drawing-on-images.ipynb)
 * 1.5 [Drawing on Images with a Mouse](01-IMAGE-BASICS/1.5-drawing-on-images-with-a-mouse.py)
