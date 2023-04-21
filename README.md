@@ -22,6 +22,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.5 [Morphological Operators](02-IMAGE-PROCESSING/2.5-morphological-operators.ipynb) 
 * 2.6 [Gradients](02-IMAGE-PROCESSING/2.6-gradients.ipynb)
 * 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb)
+* 2.8 [Transformations](02-IMAGE-PROCESSING/2.8-transformations.ipynb) *cv2.getAffineTransform, cv2.warpAffine, cv2.getPerspectiveTransform, cv2.warpPerspective*
 
 ### 3. Video Basics
 * 3.1 [Connecting to Camera](03-VIDEO-BASICS/3.1-connecting-to-camera.py)
