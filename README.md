@@ -9,13 +9,13 @@ These notes consist of six topics. You can easily access all the content below.
 
 ### 1. Image Basics
 * 1.1 [Numpy Basics](01-IMAGE-BASICS/1.1-numpy-basics.ipynb) *np.array, np.zeros, np.ones, np.arange, np.linspace, np.random.randint, np.reshape*
-* 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb) *cv2.imread, cv2.cvtColor, cv2.resize, cv2.flip, cv2.rotate, cv2.imwrite*
+* 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb) *cv2.imread, cv2.resize, cv2.flip, cv2.rotate, cv2.imwrite*
 * 1.3 [Opening Images with OpenCV](01-IMAGE-BASICS/1.3-opening-images-with-opencv.py) 
 * 1.4 [Drawing on Images](01-IMAGE-BASICS/1.4-drawing-on-images.ipynb) *cv2.rectangle, cv2.circle, cv2.line, cv2.putText, cv2.polylines*
 * 1.5 [Drawing on Images with a Mouse](01-IMAGE-BASICS/1.5-drawing-on-images-with-a-mouse.py)
 
 ### 2. Image Processing
-* 2.1 [Colorspaces](02-IMAGE-PROCESSING/2.1-colorspaces.ipynb)
+* 2.1 [Colorspaces](02-IMAGE-PROCESSING/2.1-colorspaces.ipynb) *cv2.cvtColor*
 * 2.2 [Blending and Pasting Images](02-IMAGE-PROCESSING/2.2-blending-and-pasting-images.ipynb)
 * 2.3 [Image Thresholding](02-IMAGE-PROCESSING/2.3-image-thresholding.ipynb)
 * 2.4 [Image Blurring](02-IMAGE-PROCESSING/2.4-image-blurring.ipynb)
