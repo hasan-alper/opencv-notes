@@ -8,7 +8,7 @@ This is the notes I took in my computer vision journey. Contents are from image 
 These notes consist of six topics. You can easily access all the content below.
 
 ### 1. Image Basics
-* 1.1 [Numpy Basics](01-IMAGE-BASICS/1.1-numpy-basics.ipynb)
+* 1.1 [Numpy Basics](01-IMAGE-BASICS/1.1-numpy-basics.ipynb) *np.array, np.zeros, np.ones, np.arange, np.linspace, np.random.randint, np.reshape*
 * 1.2 [OpenCV Basics](01-IMAGE-BASICS/1.2-opencv-basics.ipynb) *cv2.imread, cv2.cvtColor, cv2.resize, cv2.flip, cv2.rotate, cv2.imwrite*
 * 1.3 [Opening Images with OpenCV](01-IMAGE-BASICS/1.3-opening-images-with-opencv.py) 
 * 1.4 [Drawing on Images](01-IMAGE-BASICS/1.4-drawing-on-images.ipynb) *cv2.rectangle, cv2.circle, cv2.line, cv2.putText, cv2.polylines*
