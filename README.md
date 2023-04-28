@@ -21,7 +21,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.4 [Image Blurring](02-IMAGE-PROCESSING/2.4-image-blurring.ipynb)
 * 2.5 [Morphological Operators](02-IMAGE-PROCESSING/2.5-morphological-operators.ipynb) 
 * 2.6 [Gradients](02-IMAGE-PROCESSING/2.6-gradients.ipynb)
-* 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb)
+* 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb) *cv2.calcHist, cv2.equalizeHist, cv2.convertScaleAbs*
 * 2.8 [Transformations](02-IMAGE-PROCESSING/2.8-transformations.ipynb) *cv2.getAffineTransform, cv2.warpAffine, cv2.getPerspectiveTransform, cv2.warpPerspective*
 
 ### 3. Video Basics
