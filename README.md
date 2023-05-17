@@ -20,7 +20,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 2.3 [Image Thresholding](02-IMAGE-PROCESSING/2.3-image-thresholding.ipynb) *cv2.threshold, cv2.adaptiveThreshold* 
 * 2.4 [Image Blurring](02-IMAGE-PROCESSING/2.4-image-blurring.ipynb) *cv2.blur, cv2.GaussianBlur, cv2.medianBlur, cv2.bilateralFilter, cv2.filter2D*
 * 2.5 [Morphological Operators](02-IMAGE-PROCESSING/2.5-morphological-operators.ipynb)  *cv2.getStructuringElement, cv2.morphologyEx*
-* 2.6 [Gradients](02-IMAGE-PROCESSING/2.6-gradients.ipynb)
+* 2.6 [Gradients](02-IMAGE-PROCESSING/2.6-gradients.ipynb) *cv2.Sobel, cv2.Scharr, cv2.Laplacian*
 * 2.7 [Histograms](02-IMAGE-PROCESSING/2.7-histograms.ipynb) *cv2.calcHist, cv2.equalizeHist, cv2.convertScaleAbs*
 * 2.8 [Transformations](02-IMAGE-PROCESSING/2.8-transformations.ipynb) *cv2.getAffineTransform, cv2.warpAffine, cv2.getPerspectiveTransform, cv2.warpPerspective*
 
