@@ -31,7 +31,7 @@ These notes consist of six topics. You can easily access all the content below.
 * 3.4 [Drawing on Video](03-VIDEO-BASICS/3.4-drawing-on-video.py)
 
 ### 4. Object Detection
-* 4.1 [Template Matching](04-OBJECT-DETECTION/4.1-template-matching.ipynb)
+* 4.1 [Template Matching](04-OBJECT-DETECTION/4.1-template-matching.ipynb) *cv2.matchTemplate, cv2.minMaxLoc*
 * 4.2 [Corner Detection](04-OBJECT-DETECTION/4.2-corner-detection.ipynb)
 * 4.3 [Edge Detection](04-OBJECT-DETECTION/4.3-edge-detection.ipynb)
 * 4.4 [Grid Detection](04-OBJECT-DETECTION/4.4-grid-detection.ipynb)
