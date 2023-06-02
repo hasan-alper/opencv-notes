@@ -33,7 +33,7 @@ These notes consist of six topics. You can easily access all the content below.
 ### 4. Object Detection
 * 4.1 [Template Matching](04-OBJECT-DETECTION/4.1-template-matching.ipynb) *cv2.matchTemplate, cv2.minMaxLoc*
 * 4.2 [Corner Detection](04-OBJECT-DETECTION/4.2-corner-detection.ipynb) *cv2.cornerHarris, cv2.goodFeaturesToTrack*
-* 4.3 [Edge Detection](04-OBJECT-DETECTION/4.3-edge-detection.ipynb)
+* 4.3 [Edge Detection](04-OBJECT-DETECTION/4.3-edge-detection.ipynb) *cv2.Canny*
 * 4.4 [Grid Detection](04-OBJECT-DETECTION/4.4-grid-detection.ipynb)
 * 4.5 [Contour Detection](04-OBJECT-DETECTION/4.5-contour-detection.ipynb)
 * 4.6 [Feature Matching](04-OBJECT-DETECTION/4.6-feature-matching.ipynb)
